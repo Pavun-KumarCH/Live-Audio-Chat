@@ -1,0 +1,4 @@
+asyncio
+pyaudio
+google-genai
+python-dotenv
